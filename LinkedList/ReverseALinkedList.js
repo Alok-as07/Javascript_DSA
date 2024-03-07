@@ -36,7 +36,6 @@ class LinkedList{
 }
 
 
-const linkedList = new LinkedList();
 linkedList.append(6)
 linkedList.append(7)
 linkedList.append(5)
