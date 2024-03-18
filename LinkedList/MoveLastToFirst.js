@@ -8,6 +8,7 @@ linkedList.append(3)
 linkedList.append(5)
 linkedList.append(6)
 linkedList.append(7)
+linkedList.append(8)
 
 
 function MoveLastToFirst(head){
